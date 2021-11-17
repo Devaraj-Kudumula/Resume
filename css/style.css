@@ -303,3 +303,17 @@ p {
     width: 30px;
     bottom: 120px;
 }
+
+.phone {
+    width: 30px;
+    bottom: 500px;
+    position: relative;
+    top: 10px;
+}
+
+.whatsapp {
+    width: 30px;
+    bottom: 500px;
+    position: relative;
+    top: 10px;
+}
